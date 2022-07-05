@@ -1,0 +1,103 @@
+body {
+    font-family: 'Montserrat', sans-serif;
+    margin: 0;
+}
+
+h1 {
+    font-size: 50px;
+    color: orange;
+}
+
+section {
+    display: flex;
+    margin: 80px;
+}
+
+.diet {
+    color: red;
+}
+
+.img {
+    margin-right: 5%;
+}
+
+.food {
+    background-image: linear-gradient(red, orange);
+    font-weight: 700;
+    border-radius: 20px;
+    padding: 10px 30px;
+    color: white;
+    text-decoration: none;
+}
+
+.contact {
+    display: flex;
+    background-color: rgba(137, 43, 226, 0.097);
+
+}
+
+.contact-me {
+    margin-top: 15%;
+    margin-right: 5%;
+}
+
+.contact-me h2 {
+    font-size: 50px;
+    color: rgb(74, 32, 113)
+}
+
+.contact-button {
+    background-image: linear-gradient(rgb(111, 40, 176), white);
+    font-weight: 700;
+    border-radius: 40px;
+    padding: 10px 30px;
+    color: white;
+    text-decoration: none;
+}
+
+.recipe-title {
+    text-align: center;
+    margin-left: 25%;
+    margin-right: 25%;
+}
+
+.recipe-title h1 {
+    color: red;
+}
+
+.section1-part1 {
+    box-shadow: 3px 3px 10px rgb(207, 194, 194);
+    border-radius: 20px;
+    padding: 10px;
+    margin-left: 2%;
+}
+
+.sectio1-part2 {
+    box-shadow: 3px 3px 10px rgb(207, 194, 194);
+    border-radius: 20px;
+    padding: 10px;
+    margin-left: 4%;
+}
+
+.section2 h1 {
+    font-size: 50px;
+    color: chocolate;
+}
+
+.likes {
+    margin-left: 15%;
+}
+
+.instagram {
+    margin-left: 15%;
+}
+
+.youtube {
+    margin-left: 15%;
+}
+
+.section2 {
+    background-color: whitesmoke;
+    box-shadow: 3px 3px 20px black;
+    border-radius: 20px;
+}
