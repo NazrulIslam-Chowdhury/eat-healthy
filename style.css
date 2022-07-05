@@ -101,3 +101,7 @@ section {
     box-shadow: 3px 3px 20px black;
     border-radius: 20px;
 }
+
+footer {
+    text-align: center;
+}
